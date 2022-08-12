@@ -131,7 +131,7 @@ This is how you can run this project in your local machine.
 Clone the project
 
 ```bash
-  git clone https://github.com/parthrastogi15/movie-recommendation-system.git
+  git clone https://github.com/DishaRastogi/movie-recommendation-system.git
 ```
 
 Go to the project directory
@@ -164,7 +164,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## 🚩 Feedback
 
-If you have any feedback, please reach out to me at parthrastogi15@gmail.com
+If you have any feedback, please reach out to me at dshrastogi@gmail.com
 
 You can also fill the **feedback form** - [link](https://docs.google.com/forms/d/e/1FAIpQLSflF5_nrRpeojbASKt8vreyrACvbtRh0e0OldmOaSueTTH21w/viewform?usp=sf_link)
 
